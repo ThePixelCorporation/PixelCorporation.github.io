@@ -12,5 +12,6 @@ Design, Prompt Engineering, Branding, Web Design, API Integration, Start Ups, St
 
 https://linktr.ee/ThePixelCorp
 
-Website
+Hypertext:
+
 https://linktr.ee/ThePixelCorp
