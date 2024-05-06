@@ -11,6 +11,6 @@ Specialties:
 Design, Prompt Engineering, Branding, Web Design, API Integration, Start Ups, Stealth Mode Dev, Development, Content Creation, and Ai
 
 https://linktr.ee/ThePixelCorp
-<div style="background-color: #64ff03; width: 100%; height: 100vh;">
+<div style="background-color: #64ff03;">
   <!-- Your content here -->
 </div>
