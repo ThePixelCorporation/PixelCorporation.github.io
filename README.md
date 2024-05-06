@@ -11,7 +11,3 @@ Specialties:
 Design, Prompt Engineering, Branding, Web Design, API Integration, Start Ups, Stealth Mode Dev, Development, Content Creation, and Ai
 
 https://linktr.ee/ThePixelCorp
-
-Hypertext:
-
-https://linktr.ee/ThePixelCorp
