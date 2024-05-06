@@ -1,4 +1,5 @@
-![image](https://github.com/ThePixelCorporation/PixelCorporation.github.io/assets/168877977/ce7d0ea4-2b5d-44fa-8b0c-ae962b673b68)
+![MAP24](https://github.com/ThePixelCorporation/PixelCorporation.github.io/assets/168877977/6e2de180-0464-4061-b686-a29140a766f5)
+
 
 Graphic Design & Ui UX Development - Forget months-long cycles!
 
